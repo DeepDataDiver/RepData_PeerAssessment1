@@ -7,6 +7,7 @@
 Set working directory 
 
 ```r
+# set working directory
 setwd("./courseradatascience/RepData_PeerAssessment1")
 ```
 

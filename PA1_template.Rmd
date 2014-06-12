@@ -8,6 +8,7 @@ opts_chunk$set(echo=TRUE)
 ## Loading and preprocessing the data
 Set working directory 
 ```{r workingdirectory, echo=TRUE}
+# set working directory
 setwd("./courseradatascience/RepData_PeerAssessment1")
 ```
 
